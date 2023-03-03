@@ -7,7 +7,7 @@ Utilized Data Engineering and Data Analysis to build a SQL database of employees
 
 * Used the information from ERD to create a table schema for each of the six CSV files and specify data types, primary keys, foreign keys, and other constraints.
 
-* Imported each CSV file into the corresponding SQL table and make sure to import the data in the same order that the tables were created
+* Imported each CSV file into the corresponding SQL table and make sure to import the data in the same order that the tables were created.
 
 # Data Analysis
 * List the employee number, last name, first name, sex, and salary of each employee.
@@ -25,3 +25,13 @@ Utilized Data Engineering and Data Analysis to build a SQL database of employees
 * List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 * List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
+#Data Visualization 
+
+*Historgram visualization of the most common salary ranges
+
+![CommonSalary](https://user-images.githubusercontent.com/119978382/222600913-eccf7ff9-fb48-4994-93e8-e899efa53f85.png)
+
+*Bar chart for average salary by Title
+
+![Average Salary by Title](https://user-images.githubusercontent.com/119978382/222600920-f3fed6d6-ecc2-45d9-8124-2fe37fc9f2c3.png)
