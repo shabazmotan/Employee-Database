@@ -26,7 +26,7 @@ Utilized Data Engineering and Data Analysis to build a SQL database of employees
 
 * List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
-#Data Visualization 
+# Data Visualization 
 
 *Historgram visualization of the most common salary ranges
 
