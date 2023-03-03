@@ -28,10 +28,10 @@ Utilized Data Engineering and Data Analysis to build a SQL database of employees
 
 # Data Visualization 
 
-*Historgram visualization of the most common salary ranges
+* Historgram visualization of the most common salary ranges
 
 ![CommonSalary](https://user-images.githubusercontent.com/119978382/222600913-eccf7ff9-fb48-4994-93e8-e899efa53f85.png)
 
-*Bar chart for average salary by Title
+* Bar chart for average salary by Title
 
 ![Average Salary by Title](https://user-images.githubusercontent.com/119978382/222600920-f3fed6d6-ecc2-45d9-8124-2fe37fc9f2c3.png)
